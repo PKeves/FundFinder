@@ -11,12 +11,12 @@ Finds funds for loans by matching them with related investments.
 - The term of the investment must be greater than the term of the loan (i.e. the investor needs to be willing to put money in for longer than the loan needs it for).
 
 
-Input:
+**Input:**
 - InvestmentRequests-data.csv
 - Loans-data.csv
 
-Output:
+**Output:**
 - Output.json
 
-To run:
+**To run:**
 - Execute main method located in the Matcher.java
