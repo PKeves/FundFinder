@@ -2,7 +2,7 @@
 Finds funds for loans by matching them with related investments.
 
 
-Business rules:
+**Business rules:**
 - A valid "funded" loan must be fully funded from the investments.csv file. If a loan does not have all the funds necessary, then it cannot qualify.
 - Partially funded loans are of no value (we can't give our borrowers less money than they need to buy the property)
 - Over-funded loans are also not useful (we can't give our borrowers more money than they want as this means they will have to eventually pay more interest).
