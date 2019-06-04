@@ -19,4 +19,4 @@ Output:
 - Output.json
 
 To run:
-- Execute main method located in Matcher class.
+- Execute main method located in the Matcher.java
